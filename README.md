@@ -1,2 +1,4 @@
 # OSU-Recruiting-App
 A mini app that tracks OSU athletics recruiting, NIL mentions, and transfer‑portal moves. Welcome to the database. Stay up to date, and enjoy a user-friendly state-of-the-art interface. This project is updated by a live agent that scans the information space every hour. If any changes are detected, the database is 'automatically' updated.
+
+<img width="1447" height="907" alt="image" src="https://github.com/user-attachments/assets/9a75094e-81b1-4e3e-96e2-cf725ab264df" />
