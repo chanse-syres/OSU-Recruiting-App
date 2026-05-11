@@ -1,8 +1,9 @@
-# OSU-Recruiting-App
-I built a recruiting intelligence tool that organizes recruits, transfers, NIL mentions, source links, and updates.
-Stay up to date, and enjoy a user-friendly state-of-the-art interface. 
-This project is updated by a live agent that scans the information space every hour. 
-If any changes are detected, the database is updated and logs are documented.
+# Beavers Front Office
 
-<img width="1447" height="907" alt="image" src="https://github.com/user-attachments/assets/9a75094e-81b1-4e3e-96e2-cf725ab264df" />
-<img width="1658" height="907" alt="image" src="https://github.com/user-attachments/assets/5f747df9-48f8-41c9-ad5c-b2715a9afbd2" />
+A database webapp for Oregon State athletics that includes recruiting, transfer portal activity, personnel, roster outlook, NIL news, and more. My algorithm updates the site hourly.
+
+NOTE: The app is live and accessible, but it does not have 100% functionality yet. I'm still fixing up the edge cases, and there's a few to go still.
+
+<img width="1631" height="882" alt="image" src="https://github.com/user-attachments/assets/d7ca2925-f226-4527-96f5-cbcfb41f7bd7" />
+<img width="1291" height="911" alt="image" src="https://github.com/user-attachments/assets/77f22623-ab9d-4d0b-ac95-53be60015d3e" />
+<img width="1368" height="872" alt="image" src="https://github.com/user-attachments/assets/20273a2b-a494-414d-b612-fe458cff37e9" />
