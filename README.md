@@ -1,6 +1,8 @@
 # Beavers Front Office
 
-A database webapp for Oregon State athletics that includes recruiting, transfer portal activity, personnel, roster outlook, NIL news, and more. My algorithm updates the site hourly.
+A database webapp for Oregon State athletics that includes recruiting, transfer portal activity, personnel, roster outlook, NIL news, and more. My algorithm updates the site in live time.
+
+This started as a simple portfolio project, but it's been fun to build, so I kept going. I should probably publish a phone app version of this, I can see that happening.
 
 NOTE: The app is live and accessible, but it does not have 100% functionality yet. I'm still fixing up the edge cases, and there's a few to go still.
 
