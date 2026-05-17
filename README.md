@@ -3,10 +3,9 @@
 A database webapp for Oregon State athletics that includes recruiting, transfer portal activity, personnel, roster outlook, NIL news, and more. My algorithm updates the site in live time.
 
 This started as a simple portfolio project, but it's been fun to build, so I kept going. It'd be fun to scale to every university if the site proves that it can be useful.
-I should probably publish a phone app version of this, I can see that happening.
 
-NOTE: The app is live and accessible, but it does not have 100% functionality yet. I'm still fixing up the edge cases, and there's a few to go still.
+NOTE: The app is live and accessible, but I'm still developing it. Added a recruiting section, a scouting section, and a financial section. Added an AI-assistant agent for suggestions.
 
-<img width="1631" height="882" alt="image" src="https://github.com/user-attachments/assets/d7ca2925-f226-4527-96f5-cbcfb41f7bd7" />
-<img width="1291" height="911" alt="image" src="https://github.com/user-attachments/assets/77f22623-ab9d-4d0b-ac95-53be60015d3e" />
-<img width="1368" height="872" alt="image" src="https://github.com/user-attachments/assets/20273a2b-a494-414d-b612-fe458cff37e9" />
+<img width="1426" height="907" alt="image" src="https://github.com/user-attachments/assets/b780c323-feb2-4f61-9683-435016dd4506" />
+<img width="1433" height="898" alt="image" src="https://github.com/user-attachments/assets/dd638a4a-fcbe-4d78-b33e-72f92837e1b2" />
+<img width="1437" height="908" alt="image" src="https://github.com/user-attachments/assets/c0c52d1a-0c90-4667-a00d-a7d37cc2022d" />
