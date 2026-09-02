@@ -17,3 +17,5 @@ New home navigation page:
 
 'Express lane' upgraded for the new home page. Skip the navigation menus, get straight to where you intend to go:
 <img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/24a6f4de-bf34-42df-a449-1c00d562d458" />
+
+This project contains automated workflows and updates itself automatically.
