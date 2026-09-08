@@ -18,4 +18,5 @@ New home navigation page:
 'Express lane' upgraded for the new home page. Skip the navigation menus, get straight to where you intend to go:
 <img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/24a6f4de-bf34-42df-a449-1c00d562d458" />
 
-This project contains automated workflows and updates itself automatically.
+09/08/2026:
+A lot of progress has been made. I've added the skeleton/base files for every university. University of Texas at Austin has a football section that's still in the initial stages. This project contains automated workflows and updates itself automatically which is where the GitHub profile is seeing most of the activity.
